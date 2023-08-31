@@ -52,7 +52,7 @@ public class KafkaProducerApplication implements CommandLineRunner {
                 .guardianID(71)
                 .teacherID(3)
                 .name("Santiago Perez Amaya")
-                .id(126).build());
+                .id(127).build());
     }
 
 }
